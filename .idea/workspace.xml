@@ -4,16 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/Q1260_DFS_BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/Q13_RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/Q14_LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/Q1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/같은숫자는싫어요.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/삼진법뒤집기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/이상한문자만들기.java" afterDir="false" />
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/1/19">
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q10809.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q2675.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q2908.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/String/Q5622.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q10250.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q10757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q11653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q1193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q1712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q1929.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q2292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q2581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q2775.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q2839.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q2896.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q4948.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/Q9020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/Q10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/Q1920.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/Q9012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/sorting/Q25305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/sorting/Q2587.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/sorting/Q2750.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/programmers/Lv1/success/직사각형별찍기.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/programmers/Lv1/success/직사각형별찍기.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +107,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673344503466</updated>
     </task>
+    <task id="LOCAL-00001" summary="2023/1/19">
+      <created>1674129983651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674129983651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023/1/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/1/19" />
   </component>
 </project>
