@@ -1,4 +1,4 @@
-package backjoon.datastructure;
+package backjoon.datastructure.stackandqueue.stack;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
