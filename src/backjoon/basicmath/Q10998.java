@@ -1,10 +1,10 @@
-package backjoon.no1;
+package backjoon.basicmath;
 
 import java.util.Scanner;
 
-public class Q1008 {
+public class Q10998 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println(sc.nextDouble() / sc.nextDouble());
+        System.out.println(sc.nextInt() * sc.nextInt());
     }
 }
