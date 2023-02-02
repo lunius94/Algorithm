@@ -1,4 +1,4 @@
-package backjoon.implement;
+package backjoon.implement.bronze;
 import java.io.*;
 import java.util.*;
 
