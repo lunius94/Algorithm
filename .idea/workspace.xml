@@ -4,24 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/1/19">
-      <change afterPath="$PROJECT_DIR$/src/backjoon/bruteforce/bronze/Q2231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/bruteforce/bronze/Q2798.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/bronze/Q5585.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/gold/Q1715.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q1026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q11399.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q13305.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q1541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q16953.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q1789.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/implement/Q2920.java" afterDir="false" />
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/2">
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q11050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q4153.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/binarysearch/Q1654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/bruteforce/silver/Q7568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/Q1966.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/bronze/Q2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/silver/Q10845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/silver/Q10866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/silver/Q11866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/implement/Q1259.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/greedyalgorithm/Q1931$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/greedyalgorithm/Q1931.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/greedyalgorithm/silver/Q11047.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/greedyalgorithm/silver/Q11047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q11047.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/greedyalgorithm/silver/Q1931_fail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q1931_fail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1000.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1001.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1008.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q10250.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q10430.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q10757.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q10869.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q10998.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q11653.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1193.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1712.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q18108.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1929.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q1978.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2292.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2581.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2588.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2775.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2839.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q2896.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q3003.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q3009.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q4948.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/basicmath/Q9020.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1008.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q1008.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q10250.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q10250.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q10430.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q10430.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q10757.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q10757.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q1085.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q10869.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q10869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q10998.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q10998.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q11653.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q11653.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1193.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q1193.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1712.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q1712.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q18108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q18108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q1929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q1978.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q1978.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2581.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q2581.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2588.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2775.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2775.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2839.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q2839.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q2896.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2869.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q3003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q3003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q3009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q3009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q4948.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q4948.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/basicmath/Q9020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/silver/Q9020.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +114,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/Codestates",
+    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/demo",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -102,12 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674129983651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023/2/1">
+      <created>1675262685755</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675262685755</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023/2/2">
+      <created>1675349321298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675349321298</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023/1/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/1/19" />
+    <MESSAGE value="2023/2/1" />
+    <MESSAGE value="2023/2/2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -116,6 +177,15 @@
           <url>file://$PROJECT_DIR$/src/backjoon/greedy/silver/Q1931_fail.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/backjoon/bruteforce/silver/Q1018.java</url>
+          <line>25</line>
+          <properties class="backjoon.bruteforce.silver.Q1018" method="checkChess">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
