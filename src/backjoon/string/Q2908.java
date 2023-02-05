@@ -1,6 +1,5 @@
-package backjoon.String;
+package backjoon.string;
 import java.io.*;
-import java.util.*;
 
 public class Q2908 {
     public static void main(String[] args) throws IOException {

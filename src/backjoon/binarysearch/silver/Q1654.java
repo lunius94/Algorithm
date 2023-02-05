@@ -1,4 +1,4 @@
-package backjoon.binarysearch;
+package backjoon.binarysearch.silver;
 import java.io.*;
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package backjoon.String;
+package backjoon.string;
 import java.io.*;
 import java.util.Arrays;
 // 입력 문자열이 " " 인경우(공백인경우)에 엣지 케이스

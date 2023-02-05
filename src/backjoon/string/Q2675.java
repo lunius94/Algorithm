@@ -1,4 +1,4 @@
-package backjoon.String;
+package backjoon.string;
 import java.io.*;
 
 public class Q2675 {
