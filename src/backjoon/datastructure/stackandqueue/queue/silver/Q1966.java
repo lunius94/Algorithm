@@ -1,4 +1,4 @@
-package backjoon.datastructure.stackandqueue.queue;
+package backjoon.datastructure.stackandqueue.queue.silver;
 import java.io.*;
 import java.util.*;
 
