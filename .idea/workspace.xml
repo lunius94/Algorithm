@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/7">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/8">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/backjoon/bruteforce/gold/Q1107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/recursion/silver/Q1074.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/gold/Q7576_Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/gold/Q7576_TimeOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1389.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q2606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q2667.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/bronze/Q10162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q10610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q1946.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/greedy/silver/Q2217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/예산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/recursion/Q10870.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/recursion/bronze/Q10870.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/recursion/Q10872.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/recursion/bronze/Q10872.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/recursion/Q25501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/recursion/bronze/Q25501.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/dfs_bfs/Q1260_DFS_BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/no1/Q10171.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/no1/Q10172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/backjoon/no1/Q10926.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/dfs_bfs/Q1260_DFS_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1260.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no1/Q10171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q10171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no1/Q10172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q10172.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no1/Q10926.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q10926.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +77,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -136,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675694588810</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2023/2/7">
+      <created>1675769736532</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675769736532</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2023/2/8">
+      <created>1675864707627</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675864707627</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,7 +172,9 @@
     <MESSAGE value="2023/2/3" />
     <MESSAGE value="2023/2/4" />
     <MESSAGE value="2023/2/5" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/5" />
+    <MESSAGE value="2023/2/7" />
+    <MESSAGE value="2023/2/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,6 +183,11 @@
           <url>file://$PROJECT_DIR$/src/backjoon/greedy/silver/Q1931_fail.java</url>
           <line>32</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/thisiscodingtest/음료수_얼려_먹기.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/backjoon/bruteforce/silver/Q1018.java</url>
