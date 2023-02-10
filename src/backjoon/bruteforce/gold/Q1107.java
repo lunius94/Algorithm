@@ -1,21 +1,49 @@
 package backjoon.bruteforce.gold;
+import java.io.*;
+import java.util.*;
 
 public class Q1107 {
     /**
      * 접근법
-     * 1. 현재 채널은 100번이다.
-     * 2. Math.abs(channel-100)을 count에 저장한다.
-     * 3. list를 생성한다(Integer)
-     * 4. list에 0부터 9까지 담는다.
-     * 5. 여기서 고장난 버튼을 모두 remove한다
-     * 6. 숫자만 눌러서 도착할 채널을 저장할 변수(String)를 생성한다.
-     * 7. 반복문을 구성하는데 반복횟수는 타겟 채널의 자리수다.
-     * 8. 가장  일의자리부터 비교를 시작한다.
-     * 9. 해당 자릿수와 가장 가까운 수를 찾는다.
-     * 10. 해당 수를 String변수에 +한다.
-     * 11. 일의 자리 까지 비교한다음 숫자로 바꿔서 target채널에서 빼기
-     * 12. 빼서 나온 값의 절대값만큼 + 또는 -버튼을 눌러야한다.
-     * 13. 최종적으로 버튼을 눌러야 하는 횟수는 자릿수(가장 큰 자리가 0일 경우 -1해줘야함) + 빼서 나온 값
-     * 14. count와 빼서 나온값 중 최소값을 출력한다.
+     * 1. 버튼이 고장났는지 안났는지 확인할 수 있는 boolean 배열을 만든다.
+     * 2. 고장난 버튼은 true로 변경한다.
+     * 3. 최대값이 999999이므로, 반복문으로 999999까지 탐색한다.
+     * 4. i를 잘게 쪼개서 각 요소가 모두 false인지 확인한다.
+     * 5. 모두 false라면 target-i의 절대값을 저장한다.
+     * 6. 또 조건을 만족하는 i가 나오면 저장된 값과 target-i의 절대값을 비교해서 작은값을 저장한다.
+     * 7. 최종적으로 target-100의 절대값과 저장된 값을 비교해서 작은값을 저장한다.
+     * 8. 만약 target-100이 더 작으면 target-100을 출력하고
+     * 9. 아니라면 저장된 값의 길이 + (target-i)의 절대값을 출력한다.
      */
+    public static void main(String[] args)  {
+        Scanner scan = new Scanner(System.in);
+
+        int target = scan.nextInt();
+        int m = scan.nextInt();
+
+        boolean[] broken = new boolean[10];
+        for(int i = 0; i < m; i++) {
+            int n = scan.nextInt();
+            broken[n] = true;
+        }
+
+        int result = Math.abs(target - 100);
+        for(int i = 0; i <= 999999; i++) {
+            String str = String.valueOf(i);
+            int len = str.length();
+
+            boolean isBreak = false;
+            for(int j = 0; j < len; j++) {
+                if(broken[str.charAt(j) - '0']) {
+                    isBreak = true;
+                    break;
+                }
+            }
+            if(!isBreak) {
+                int min = Math.abs(target - i) + len;
+                result = Math.min(min, result);
+            }
+        }
+        System.out.println(result);
+    }
 }
