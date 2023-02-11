@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/9">
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/10">
       <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/gold/Q7662.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/silver/Q1927.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1697_fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1697_success.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/recursion/silver/Q2630.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/datastructure/stackandqueue/queue/gold/Q7662_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/recursion/silver/Q1780.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/bruteforce/gold/Q1107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/bruteforce/gold/Q1107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/dfs_bfs/silver/Q1389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/implement/Q1259.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q1259.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q2480.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q2525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q2525.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/bronze/Q2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/basicmath/bronze/Q2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/no2/Q9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/implement/silver/Q9498.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/Algorithm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;zulu-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ouuu1/Desktop/JavaProject/Algorithm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ouuu1\Desktop\JavaProject\Algorithm\src\backjoon\no3" />
@@ -155,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675945655955</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2023/2/10">
+      <created>1676037133479</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676037133479</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,7 +181,8 @@
     <MESSAGE value="2023/2/7" />
     <MESSAGE value="2023/2/8" />
     <MESSAGE value="2023/2/9" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/9" />
+    <MESSAGE value="2023/2/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
