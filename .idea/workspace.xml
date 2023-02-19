@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/16">
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/18">
       <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/fail/실패율.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/가장가까운같은글자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/모의고사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/소수만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/소수찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/폰켓몬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/푸드파이트대회.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/체육복.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/inflearn/springmvc",
+    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/Algorithm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -205,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676556582611</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023/2/18">
+      <created>1676729149899</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676729149899</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,7 +226,8 @@
     <MESSAGE value="2023/2/14" />
     <MESSAGE value="2023/2/15" />
     <MESSAGE value="2023/2/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/16" />
+    <MESSAGE value="2023/2/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
