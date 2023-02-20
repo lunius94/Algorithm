@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/18">
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/19">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/sorting/Insertionsort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/fail/실패율.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/체육복.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/과일장수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/기사단원의무기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/로또의최고순위와최저순위.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/명예의전당1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/문자열나누기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/성격유형검사하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/숫자짝궁.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/신고결과받기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/완주하지못한선수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676729149899</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2023/2/19">
+      <created>1676817025701</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676817025701</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,7 +243,8 @@
     <MESSAGE value="2023/2/15" />
     <MESSAGE value="2023/2/16" />
     <MESSAGE value="2023/2/18" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/18" />
+    <MESSAGE value="2023/2/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,7 +339,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/programmers/Lv1/fail/실패율.java</url>
           <line>11</line>
-          <properties class="programmers.Lv1.success.실패율" method="solution">
+          <properties class="programmers.Lv1.fail.실패율">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
