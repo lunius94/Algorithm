@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/19">
-      <change afterPath="$PROJECT_DIR$/src/algorithm/sorting/Insertionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/fail/실패율.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/과일장수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/기사단원의무기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/로또의최고순위와최저순위.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/명예의전당1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/문자열나누기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/성격유형검사하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/숫자짝궁.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/신고결과받기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/완주하지못한선수.java" afterDir="false" />
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/20">
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/다트게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/크레인인형뽑기게임.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programmers/Lv1/success/신고결과받기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programmers/Lv1/success/신고결과받기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/Algorithm",
+    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/be-template-jdbc",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -223,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676817025701</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="2023/2/20">
+      <created>1676898698403</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676898698403</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,7 +243,8 @@
     <MESSAGE value="2023/2/16" />
     <MESSAGE value="2023/2/18" />
     <MESSAGE value="2023/2/19" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/19" />
+    <MESSAGE value="2023/2/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -344,6 +344,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programmers/Lv1/success/다트게임.java</url>
+          <line>5</line>
+          <properties class="programmers.Lv1.success.다트게임" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
