@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/25">
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv2/success/JadenCase문자열만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Lv2/success/최댓값과최솟값.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84ddc16d-ca2a-4c4f-831e-166c4b5dc19e" name="Changes" comment="2023/2/26" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "zulu-11",
-    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/Algorithm",
+    "last_opened_file_path": "C:/Users/ouuu1/Desktop/JavaProject/be-homework-jpa",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -256,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677324441032</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="2023/2/26">
+      <created>1677422098814</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677422098814</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -283,7 +286,8 @@
     <MESSAGE value="2023/2/23" />
     <MESSAGE value="2023/2/24" />
     <MESSAGE value="2023/2/25" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023/2/25" />
+    <MESSAGE value="2023/2/26" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023/2/26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
